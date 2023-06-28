@@ -5,7 +5,7 @@ This is my most recent portfolio website. It's very simple and passes the requir
 <br />
 
 <h2>Hosted Page Link</h2>
-https://estheruduma.github.io/Esthers-portfolio/
+
 
 <h2>Languages and Utilities Used</h2>
 
