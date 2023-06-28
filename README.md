@@ -21,5 +21,5 @@ https://estheruduma.github.io/Esthers-portfolio/
 
 <p align="center">
 <br/>
-<img src="https://https://github.com/EstherUduma/Esthers-portfolio/assets/73527320/10c8f539-b028-44f9-921a-a583f727921d" height="80%" width="80%" alt="Freebie Landing Page 1"/>
+<img src="https://github.com/EstherUduma/Esthers-portfolio/assets/73527320/10c8f539-b028-44f9-921a-a583f727921d" height="80%" width="80%" alt="Esther's Portfolio Website"/>
 </P>
