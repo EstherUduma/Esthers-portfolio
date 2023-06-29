@@ -412,16 +412,16 @@ img {
 @media screen and (max-width: 414px) {
   .home {
     row-gap: 2rem;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
   }
   .home__img {
-    margin-top: 150px;
+    margin-top: 200px;
     width: 210px;
     /*height: 150px;*/
   }
 }
 
-@media screen and (min-width: 413px) {
+@media screen and (min-width: 415px) {
   .home {
     padding: 4rem 0 2rem;
   }
