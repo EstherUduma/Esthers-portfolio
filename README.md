@@ -1,7 +1,7 @@
 <h1>Recent Portfolio Site</h1>
 
 <h2>Description</h2>
-This is my most recent portfolio website. It's very simple and passes the required information.
+This is my most recent portfolio website. It's very simple and passes the necessary information.
 <br />
 
 <h2>Hosted Page Link</h2>
